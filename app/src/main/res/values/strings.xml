@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="texto_numero1">Ingrese primer número:</string>
+    <string name="texto_numero2">Ingrese segundo número:</string>
+    <string name="texto_sumar">Sumar</string>
+    <string name="texto_restar">Restar</string>
+    <string name="texto_factorial">Factorial</string>
+    <string name="texto_limpiar">Limpiar</string>
+    <string name="texto_resultado">El resultado es:</string>
+    <string name="texto_calculadora">Escoga tipo de calculadora:</string>
+    <string name="texto_multiplicar">Multiplicar</string>
+    <string name="texto_dividir">Dividir</string>
+    <string name="texto_creditos">Creditos</string>
+    <string name="texto_escuela">Universidad Tecnológico del Norte de Guanajuato</string>
+    <string name="texto_materia">Desarrollo de aplicaciones ll</string>
+    <string name="texto_profesor">Apolinar Trejo Cuevas</string>
+    <string name="texto_aplicacion">Calculadora</string>
+    <string name="texto_nombre">Cristóbal Olvera Deanda</string>
+    <string name="texto_fecha">29 de Septiembre de 2017</string>
+    <string-array name="opciones">
+        <item>Calculadora normal</item>
+        <item>Calculadora científica</item>
+    </string-array>
+</resources>
